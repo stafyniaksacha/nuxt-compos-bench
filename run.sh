@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COMP_COUNT=10000
+COMP_COUNT=100
 NODE_COUNT=100
 OUTPUT="./results.csv"
 NAME=".vue ${NODE_COUNT} nodes"
